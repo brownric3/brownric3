@@ -1,6 +1,7 @@
-print("Helllo World!");
+Lab 12
+Requirements:
 
-<!---
-brownric3/brownric3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Write a program that returns 211.
+Make sure NO OUTPUT is printed in your program (no printf).
+Commit and push the changes to your repository.
+Submit the assignment on Gradescope.
